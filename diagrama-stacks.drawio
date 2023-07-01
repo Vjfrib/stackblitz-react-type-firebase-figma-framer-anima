@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T21:04:45.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mUXsJPoJ2kuYlt0cjZEe" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T21:05:16.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4p1dczUzNYsLRZvYTBL9" version="21.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="794" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,6 +117,9 @@
         </mxCell>
         <mxCell id="FJUk8lBvy-kIH8vaMmrD-0" value="O QUE SE PRECISA?(abstract)&lt;br&gt;&lt;br&gt;QUE HERDA DE QUEM?(inerith) (herda interno)&lt;br&gt;&lt;br&gt;O QUE ESTÁ LIGAD A O QUE? (...)&lt;br&gt;&lt;br&gt;&amp;nbsp;O QUE TEM ACESSO A O QUE? (encapsulamento)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="70" width="110" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="FJUk8lBvy-kIH8vaMmrD-1" value="stackblitz-react-type-firebase-figma-framer-anima" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="460" width="340" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
